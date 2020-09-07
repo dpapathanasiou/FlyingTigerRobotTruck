@@ -4,7 +4,7 @@
 
 On a whim, I bought a `Build Your Own Truck (Saml Selv-Lastbil)` [mecanno style](https://en.wikipedia.org/wiki/Meccano) metal toy at [Flying Tiger](https://flyingtiger.com/).
 
-![Flying Tiger Build Your Own Truck](./images/Flying-Tiger-Build-Your-Own-Truck-Saml.jpg)
+![Flying Tiger Build Your Own Truck](.images/Flying-Tiger-Build-Your-Own-Truck-Saml.jpg)
 
 This project adds a microcontroller, DC motors and sensors, in an attempt to turn it into an autonomous robot.
 
